@@ -53,7 +53,7 @@ https://github.com/mabhipsa12/Credit-Risk-KPI-Dashboard/blob/main/CREDIT%20CARD%
 
 ## Project Documentation
 For a detailed breakdown of the project, including methodology, specific findings, and comprehensive recommendations, please refer to the full documentation:
-https://github.com/mabhipsa12/Credit-Risk-KPI-Dashboard
+Link:
 https://github.com/mabhipsa12/Credit-Risk-KPI-Dashboard/blob/main/Credit%20Default%20Risk%20Analytics%20Project%20Documentation.docx
 
 ## Data Source
@@ -64,3 +64,5 @@ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/dat
 Feel free to connect with me for any questions or collaborations:
 - **LinkedIn:** (http://www.linkedin.com/in/abhipsa-mishra-x01)
 - **Email:** abhipsamishra001@gmail.com
+
+## Dashboard Snapshot
