@@ -1,5 +1,4 @@
-# Credit Default Risk Analytics Project
-
+# 📊 Credit Default Risk Analytics Project 🚀
 ## Project Description
 This repository contains the documentation for an end-to-end credit card customer analysis project. I performed detailed data profiling in Excel, extracted crucial insights with advanced SQL queries, and then visualized key credit behavior and default trends in interactive Power BI dashboards.
 
@@ -14,12 +13,12 @@ This repository contains the documentation for an end-to-end credit card custome
 - [Contact](#contact)
 
 ---
-
 ## Project Overview
 This project focused on developing a dynamic KPI reporting system designed to monitor customer repayment behavior, identify high-risk customers, and analyze trends in billing and payments. The ultimate goal was to provide decision-makers with actionable insights to assess potential credit risk and monitor portfolio health effectively.
 
 ## Problem Statement & Objectives
-**Problem Statement:** To effectively mitigate and understand the underlying drivers of credit default risk and its associated financial impacts, this project aimed to analyze customer repayment behavior and credit utilization patterns using credit card data. The objective was to design a robust KPI reporting dashboard that identifies key drivers of default risk, repayment delays, and bill-payment trends across various customer segments (age, gender, education, and marital status), ultimately deriving actionable insights to support enhanced risk assessment and improved decision-making in credit management.
+**Problem Statement:** 
+To effectively mitigate and understand the underlying drivers of credit default risk and its associated financial impacts, this project aimed to analyze customer repayment behavior and credit utilization patterns using credit card data. The objective was to design a robust KPI reporting dashboard that identifies key drivers of default risk, repayment delays, and bill-payment trends across various customer segments (age, gender, education, and marital status), ultimately deriving actionable insights to support enhanced risk assessment and improved decision-making in credit management.
 
 **Project Objectives:**
 - Monitor customer repayment behavior.
@@ -54,7 +53,6 @@ All KPIs and findings in the Power BI dashboard were rigorously cross-verified a
 ## Project Documentation
 For a detailed breakdown of the project, including methodology, specific findings, and comprehensive recommendations, please refer to the full documentation:
 [Link to your Credit_Default_Risk_Analytics_Project.md file on GitHub]
-
 
 ## Data Source
 The dataset used for this analysis is:
