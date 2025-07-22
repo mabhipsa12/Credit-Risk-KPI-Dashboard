@@ -11,6 +11,7 @@ This repository contains the documentation for an end-to-end credit card custome
 - [Project Documentation](#project-documentation)
 - [Data Source](#data-source)
 - [Contact](#contact)
+- [Dashboard Snapshot](#Dashboard-Snapshot)
 
 ---
 ## Project Overview
