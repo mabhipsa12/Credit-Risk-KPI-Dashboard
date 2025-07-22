@@ -67,4 +67,5 @@ Feel free to connect with me for any questions or collaborations:
 - **Email:** abhipsamishra001@gmail.com
 
 ## Dashboard Snapshot
-<img width="1267" height="709" alt="Screenshot 2025-07-23 000019" src="https://github.com/user-attachments/assets/d0edaa38-443a-40a8-a021-344380904824" />
+
+<img width="1265" height="717" alt="Screenshot 2025-07-23 000729" src="https://github.com/user-attachments/assets/fe743a46-e359-41b4-8638-bba80daa288d" />
