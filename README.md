@@ -49,6 +49,7 @@ Based on these findings, actionable recommendations were proposed, including:
 
 ## Technical Validation & Quality Assurance
 All KPIs and findings in the Power BI dashboard were rigorously cross-verified against direct SQL queries on the cleaned dataset to ensure accuracy and reliability.
+https://github.com/mabhipsa12/Credit-Risk-KPI-Dashboard/blob/main/CREDIT%20CARD%20SQL%20QUERRIES.docx
 
 ## Project Documentation
 For a detailed breakdown of the project, including methodology, specific findings, and comprehensive recommendations, please refer to the full documentation:
