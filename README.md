@@ -52,7 +52,7 @@ All KPIs and findings in the Power BI dashboard were rigorously cross-verified a
 
 ## Project Documentation
 For a detailed breakdown of the project, including methodology, specific findings, and comprehensive recommendations, please refer to the full documentation:
-[Link to your Credit_Default_Risk_Analytics_Project.md file on GitHub]
+https://github.com/mabhipsa12/Credit-Risk-KPI-Dashboard
 
 ## Data Source
 The dataset used for this analysis is:
@@ -60,6 +60,5 @@ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/dat
 
 ## Contact
 Feel free to connect with me for any questions or collaborations:
-- **Name:** [Your Name/Team Name]
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [Your Email Address]
+- **LinkedIn:** (http://www.linkedin.com/in/abhipsa-mishra-x01)
+- **Email:** abhipsamishra001@gmail.com
